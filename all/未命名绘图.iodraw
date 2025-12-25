@@ -22,6 +22,14 @@
         <mxCell id="SgTZN9H0d3TyTVciNwwg-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;系统管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-3" target="IBl8j2mj7TI3w0AMJDGO-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="300" />
+              <mxPoint x="460" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-3" value="操作设置" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="400" y="190" width="80" height="80" as="geometry" />
         </mxCell>
@@ -90,11 +98,16 @@
           <mxGeometry x="100" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="IBl8j2mj7TI3w0AMJDGO-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="460" y="300" />
+              <mxPoint x="580" y="300" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-36" value="数据返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-33">
           <mxGeometry x="0.4263" y="-5" relative="1" as="geometry">
-            <mxPoint x="-5" y="-5" as="offset" />
+            <mxPoint x="-40" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="IBl8j2mj7TI3w0AMJDGO-18">
