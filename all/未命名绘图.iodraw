@@ -93,7 +93,7 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="SgTZN9H0d3TyTVciNwwg-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="440" y="490" />
+              <mxPoint x="440" y="400" />
               <mxPoint x="440" y="230" />
             </Array>
           </mxGeometry>
@@ -104,7 +104,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-10" value="系统配置数据" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
-          <mxGeometry x="600" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-15" value="属性数据访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="390.0023529411768" y="219.99882352941194" as="geometry">
