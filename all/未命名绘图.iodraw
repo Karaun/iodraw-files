@@ -117,11 +117,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-48" value="配置信息导入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-46">
-          <mxGeometry x="0.1854" y="-3" relative="1" as="geometry">
-            <mxPoint x="-81" y="3" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-10" value="系统配置数据" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="400" y="350" width="120" height="60" as="geometry" />
         </mxCell>
@@ -237,6 +232,11 @@
             <Array as="points">
               <mxPoint x="650" y="490" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-73" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-71">
+          <mxGeometry x="0.3986" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
