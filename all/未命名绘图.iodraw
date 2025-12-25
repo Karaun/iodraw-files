@@ -58,19 +58,6 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-5" value="地图显示处理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="220" y="660" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-6" target="IBl8j2mj7TI3w0AMJDGO-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-29" value="操作日志写入" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-28">
-          <mxGeometry x="0.38" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="540" y="230" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-6" target="IBl8j2mj7TI3w0AMJDGO-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -94,6 +81,12 @@
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-9" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;span style=&quot;&quot; class=&quot;token text string&quot;&gt;楼栋空间数据&lt;/span&gt;&lt;/pre&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="100" y="460" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="IBl8j2mj7TI3w0AMJDGO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="SgTZN9H0d3TyTVciNwwg-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-10" value="系统配置数据" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
