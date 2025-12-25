@@ -60,7 +60,9 @@
           <mxGeometry x="540" y="470" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-15" value="空间数据访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="340.0023529411768" y="369.99882352941194" as="geometry" />
+          <mxGeometry x="340.0023529411768" y="369.99882352941194" as="geometry">
+            <mxPoint x="-36" y="203" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-18" target="IBl8j2mj7TI3w0AMJDGO-4">
           <mxGeometry relative="1" as="geometry">
