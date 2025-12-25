@@ -16,6 +16,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SgTZN9H0d3TyTVciNwwg-1" target="IBl8j2mj7TI3w0AMJDGO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="SgTZN9H0d3TyTVciNwwg-1" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;系统管理员&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="200" width="120" height="60" as="geometry" />
         </mxCell>
@@ -67,6 +70,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="540" y="230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-6" target="IBl8j2mj7TI3w0AMJDGO-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-6" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;用户&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="200" width="120" height="60" as="geometry" />
