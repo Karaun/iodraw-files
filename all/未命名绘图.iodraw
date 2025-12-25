@@ -85,8 +85,23 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="IBl8j2mj7TI3w0AMJDGO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-36" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-33">
+          <mxGeometry x="0.4263" y="-5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="SgTZN9H0d3TyTVciNwwg-1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="440" y="490" />
+              <mxPoint x="440" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-35" value="操作反馈" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-34">
+          <mxGeometry x="-0.03" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-10" value="系统配置数据" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="460" y="460" width="120" height="60" as="geometry" />
