@@ -116,6 +116,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-10" target="IBl8j2mj7TI3w0AMJDGO-18">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="650" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-10" value="系统配置数据" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="590" y="370" width="120" height="60" as="geometry" />
         </mxCell>
@@ -176,7 +183,7 @@
           <mxGeometry x="440" y="590" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-45" value="查询地位处理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="450" y="600" width="80" height="80" as="geometry" />
+          <mxGeometry x="630" y="650" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
