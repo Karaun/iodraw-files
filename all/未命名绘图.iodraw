@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="NpVQwMJS8A0h1Pldb4e7">
-    <mxGraphModel dx="788" dy="1211" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="445" dy="684" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -130,12 +130,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-18" target="IBl8j2mj7TI3w0AMJDGO-37">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="360" y="630" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-18" target="IBl8j2mj7TI3w0AMJDGO-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-18" value="&lt;pre style=&quot;font-variant-numeric: normal; font-variant-east-asian: normal; font-variant-alternates: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-variant-position: normal; font-variant-emoji: normal; font-stretch: normal; font-size: 13px; line-height: 22px; font-family: Menlo, Monaco, Consolas, &amp;quot;Cascadia Mono&amp;quot;, &amp;quot;Ubuntu Mono&amp;quot;, &amp;quot;DejaVu Sans Mono&amp;quot;, &amp;quot;Liberation Mono&amp;quot;, &amp;quot;JetBrains Mono&amp;quot;, &amp;quot;Fira Code&amp;quot;, Cousine, &amp;quot;Roboto Mono&amp;quot;, &amp;quot;Courier New&amp;quot;, Courier, sans-serif, system-ui; overflow: auto; text-wrap-mode: wrap; word-break: break-all; padding: 16px; text-align: start; margin: 0px !important;&quot;&gt;&lt;span style=&quot;&quot; class=&quot;token text string&quot;&gt;楼栋属性数据&lt;/span&gt;&lt;/pre&gt;" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;dx=10;dy=10;" vertex="1" parent="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
@@ -151,20 +147,8 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-26" value="属性数据调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="580" as="geometry" />
         </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="IBl8j2mj7TI3w0AMJDGO-37" target="IBl8j2mj7TI3w0AMJDGO-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="700" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-42" value="结果显示" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IBl8j2mj7TI3w0AMJDGO-41">
-          <mxGeometry x="-0.0381" y="1" relative="1" as="geometry">
-            <mxPoint x="-9" y="-1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-37" value="查询地位处理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="190" y="670" width="80" height="80" as="geometry" />
+          <mxGeometry x="130" y="680" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-45" value="数据同步处理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="610" y="590" width="80" height="80" as="geometry" />
