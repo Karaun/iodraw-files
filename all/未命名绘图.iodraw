@@ -98,11 +98,13 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-22" value="数据返回" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="260" y="490" as="geometry" />
         </mxCell>
-        <mxCell id="IBl8j2mj7TI3w0AMJDGO-24" value="空间数据访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="160" y="580" as="geometry" />
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-24" value="空间数据调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="580" as="geometry">
+            <mxPoint x="-11" y="-1" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-26" value="空间数据访问" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="170" y="590" as="geometry" />
+          <mxGeometry x="360" y="580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
