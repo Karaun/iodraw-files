@@ -140,6 +140,9 @@
         <mxCell id="IBl8j2mj7TI3w0AMJDGO-26" value="属性数据调用" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="360" y="580" as="geometry" />
         </mxCell>
+        <mxCell id="IBl8j2mj7TI3w0AMJDGO-37" value="地图显示处理" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="230" y="670" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
